@@ -1,7 +1,7 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Jr. Web Dev Ninja
+description:      Daimeon is a recent graduate from General Assembly http://www.generalassemb.ly who is searching for a full time roles
 disqus_shortname: hpstrtheme
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Daimeon Pilcher
+  avatar:         daimeon.jpg
+  bio:            "A dynamic Full-Stack Web Developer comfortable working on the MEAN stack, Ruby on Rails, with elegant designs for the user experience with over 15 years of providing superb customer service."
+  email:          daimeon.pilcher@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        daimeonpilcher
   facebook:       
-  github:         
+  github:         daimeonpilcher
   stackexchange:  
-  linkedin:       
+  linkedin:       daimeonpilcher
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -64,6 +64,11 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+prose:
+  rooturl:
+  siteurl: "http://www.daimeon.com"
+  ignore: ['index.html, _config.yml']
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
