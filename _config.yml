@@ -1,7 +1,7 @@
-title:            Jr. Web Dev Ninja
-description:      Daimeon is a recent graduate from General Assembly http://www.generalassemb.ly who is searching for a full time roles
-disqus_shortname: hpstrtheme
-reading_time:     false
+title:            Daimeon's Blog
+description:      A web developer's life from start to...
+disqus_shortname: daimeon
+reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -11,28 +11,28 @@ url:
 owner:
   name:           Daimeon Pilcher
   avatar:         daimeon.jpg
-  bio:            "A dynamic Full-Stack Web Developer comfortable working on the MEAN stack, Ruby on Rails, with elegant designs for the user experience with over 15 years of providing superb customer service."
+  bio:            "Former IT support manager turned web developer and trying to make it in the big city."
   email:          daimeon.pilcher@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        daimeonpilcher
-  facebook:       
+  facebook:
   github:         daimeonpilcher
-  stackexchange:  
+  stackexchange:  daimeon.pilcher@gmail.com
   linkedin:       daimeonpilcher
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-65032504-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -64,11 +64,6 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
-
-prose:
-  rooturl:
-  siteurl: "http://www.daimeon.com"
-  ignore: ['index.html, _config.yml']
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
