@@ -1,5 +1,5 @@
 title:            Daimeon's Blog
-description:      A web developer's life from start to...
+description:      A starving web developer's life from start to now.
 disqus_shortname: daimeon
 reading_time:     true
 words_per_minute: 200
@@ -10,8 +10,8 @@ url:
 # Owner/author information
 owner:
   name:           Daimeon Pilcher
-  avatar:         daimeon.jpg
-  bio:            "Former IT support manager turned web developer and trying to make it in the big city."
+  avatar:         DaimeonHeadshot.jpg
+  bio:            "Former IT support manager turned web developer trying to make anything!"
   email:          daimeon.pilcher@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        daimeonpilcher
@@ -30,7 +30,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-65032504-1
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
