@@ -6,7 +6,7 @@ comments: true
 tags: [first, beginning, General Assembly]
 ---
 <img style="min-height: 300px; max-height: 45px;" src="/images/first-post.jpg">
-<img style="min-height: 300px; max-height: 45px;" src="/images/ga-logo.png"> 
+<img style="min-height: 300px; max-height: 45px;" src="/images/ga-logo.png">
 
 In April of this year (2015) I took a Web Development Immersive (WDI) course through [General Assembly][c5315a22], which is a 12 intensive week program teaching everything from HTML, CSS, JavaScript, Node.js, Angular.js, Ruby, Ruby on Rails, MongoDB, PostgreSQL, RESTful routing, and creating and using third party APIs.
 
