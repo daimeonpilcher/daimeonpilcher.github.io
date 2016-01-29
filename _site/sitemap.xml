@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/another-day-another-city/</loc>
+    <lastmod>2016-01-28T06:53:42-05:00</lastmod>
+  </url>
+  <url>
     <loc>/first-test-of-post/</loc>
     <lastmod>2015-09-11T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>/404.html</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/posts/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/projects/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2015-09-17T22:29:20-04:00</lastmod>
+    <lastmod>2016-01-29T13:27:44-05:00</lastmod>
   </url>
 </urlset>
