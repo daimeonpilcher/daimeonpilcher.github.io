@@ -25,4 +25,7 @@ After having given up on the idea that was the San Francisco Bay Area, the trip 
 <br>
 
 ###Dog Cycle
-After we started driving it was an almost non-stop whimper, whine, and jumping all over fest.  She did not want to be in the car any more.  First we decided we would stop in a small town about 150 miles East outside of Reno to get breakfast.  We were budgeted for McDonald's so we went in and ordered.  We brought the food outside, made a dish of dog food and water for Neesha, and even shared a little of our food with her.  After we all finished we went for a walk/run-around in a big empty dirt parkin-lot where she could run off-leash.
+After we started driving it was an almost non-stop whimper, whine, and jumping all over fest.  She did not want to be in the car any more.  First we decided we would stop in a small town about 150 miles East outside of Reno to get breakfast.  We were budgeted for McDonald's so we went in and ordered.  We brought the food outside, made a dish of dog food and water for Neesha, and even shared a little of our food with her.  After we all finished we went for a walk/run-around in a big empty dirt parkin-lot where she could run off-leash. This seemed to make her feel better for a while, but this would eventually become a trend throughout the rest of the trip.
+
+###Nevada
+Not much to say about that.  The rest of the drive was in the dark after we finally got to Salt Lake City.
